@@ -7,7 +7,7 @@ PyTorch implementation for the paper:
 ## Pipeline
 
 <p align="center">
-<img src="figs/fig_central_illustration.png" width="70%" />
+<img src="figs/fig_central_illustration.png" width="100%" />
 </p>
 
 ## Dependencies
@@ -106,13 +106,13 @@ I put CUB-200-2011 dataset under ```/data/CUB-200-2011$```
 ### Responsible neurons for hierarchical concepts
 
 <p align="center">
-<img src="figs/fig_responsible_neurons_for_hierarchical_concepts.png" width="70%" />
+<img src="figs/fig_responsible_neurons_for_hierarchical_concepts.png" width="100%" />
 </p>
 
 ### Object localization
 
 <p align="center">
-<img src="figs/fig_localization.png" width="70%" />
+<img src="figs/fig_localization.png" width="100%" />
 </p>
 
 ## Contact
