@@ -50,7 +50,7 @@ I put it under ```/data/imagenet_sample_5000/```
 
 - **Pascal VOC**
 
-I put Pascal VOC dataset under ```/data/Pascal_VOC_dataset/VOCdevkit/VOC2007$``` (the path name may seems wired...)
+I put Pascal VOC dataset under ```/data/Pascal_VOC_dataset/VOCdevkit/VOC2007$``` (the path name may seem wired...)
 
 ```
 /data/Pascal_VOC_dataset/VOCdevkit/VOC2007
